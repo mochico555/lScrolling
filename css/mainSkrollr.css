@@ -342,6 +342,9 @@ main {
     }
 
     a,
+    a::before{
+      color: white;
+    }
     a:visited {
         text-decoration: underline;
     }
